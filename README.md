@@ -1,4 +1,4 @@
-# snake-game-in-python-by-ganesh-kavhar
+# snake-game-in-python-by-Surekha.
 ganesh kavhar python pygame development....
 
 
